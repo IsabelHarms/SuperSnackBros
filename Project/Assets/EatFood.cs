@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class EatFood : MonoBehaviour
 {
-    private Vector3 scaleChange = new Vector3(0.2f, 0.2f, 0.2f);
+    private Vector3 scaleChange = new Vector3(0.0f, 0.2f, 0.0f);
     private Rigidbody rb;
     private Transform tr;
 
